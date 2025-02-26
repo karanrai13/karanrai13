@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React and Django**
 
-- 📫 How to reach me **karankaushlendrarai@gmail.com**
+- 📫 How to reach me **karankaushalendrarai@gmail.com**
 
 - ⚡ Fun fact **I love exploring cutting-edge technologies and solving problems creatively.**
 
